@@ -8,12 +8,7 @@
 ## 👉 O que é L.A.S.E.R?
 
 <p align="justify">
-O L.A.S.E.R (Laboratório de Sistemas Embarcados e Robótica) é 
-</p>
- 
-## 👉 Como Surgiu?
-<p align="justify">
-O L.A.S.E.R teve inicio em
+O L.A.S.E.R (Laboratório de Sistemas Embarcados e Robótica) é Laboratório voltado à promoção do ensino em robótica, eletrônica e programação, por meio de práticas acessíveis e inovadoras. Busca integrar fundamentos teóricos a aplicações práticas, desenvolvendo competências em robótica educacional e sistemas embarcados, com foco na formação de alunos capacitados para enfrentar desafios do mundo real.
 </p>
 
 ## 👍 Curtiu o projeto?
